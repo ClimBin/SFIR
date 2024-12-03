@@ -32,4 +32,4 @@ Feel free to download the pre-trained models and directly test them, or refer to
 
 ## 4. Acknowledgments
 
-Our code is based on the ([IRNeXt](https://github.com/c-yn/IRNeXt)) architecture. We want to express our sincere thanks to the authors for their outstanding work.
+Our code is based on the [IRNeXt](https://github.com/c-yn/IRNeXt) architecture. We want to express our sincere thanks to the authors for their outstanding work.
