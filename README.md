@@ -26,7 +26,7 @@ This command will load the specified model and evaluate its performance on the t
 
 ## 3. Results
 
-We have provided the pre-trained models and results for the various restoration tasks discussed in the paper. You can access them through the following link: [xxx link](#).
+We have provided the pre-trained models and results for the various restoration tasks discussed in the paper. You can access them through the following link: [click_me](https://drive.google.com/drive/folders/1oncEBISMVSOCsW6eAGriL6tzeJcqFboD?usp=drive_link).
 
 Feel free to download the pre-trained models and directly test them, or refer to the results for further insights.
 
